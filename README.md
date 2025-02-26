@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Raphael Dantas de Castro
+Matricula: 888069
 
 ## Tela de inspeção com navegador
-
+![imageDoNavegador](./gitAula.jpg)
 
 ## Tela de projeto no Replit
+![imageDoReplit](./helloWorld.jpg)
 
